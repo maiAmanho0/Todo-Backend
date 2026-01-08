@@ -1,6 +1,6 @@
 # Todo-Backend
 A simple backend project using Node.js and Express that demonstrates REST APIs, authentication, and task management.
-// flow end to end
+# flow end to end
 User (Postman / Frontend)
         |
         | HTTP Request (GET / POST / PUT / DELETE)
@@ -14,7 +14,7 @@ Routes (logic)
 MongoDB (data)
         ↓
 Response (JSON)
-//Basic Project Structure
+# Basic Project Structure
 todo-backend/
 │
 ├── src/
