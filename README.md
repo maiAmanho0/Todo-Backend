@@ -16,8 +16,6 @@ This project focuses on understanding **how backend systems work**, including re
 - Clean and modular project structure
 - RESTful API design
 
-> ⚠️ Note: This project uses **in-memory storage** (no database).  
-> It is designed to strengthen backend fundamentals before integrating a database like MongoDB.
 
 ---
 
