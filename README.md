@@ -32,4 +32,19 @@ This project focuses on understanding **how backend systems work**, including re
 ---
 
 ## 📂 Project Folder Structure
+todo-backend/
+│
+├── src/
+│ ├── middleware/
+│ │ └── auth.middleware.js # JWT verification middleware
+│ │
+│ ├── routes/
+│ │ ├── auth.routes.js # Signup & Login routes
+│ │ └── task.routes.js # Task CRUD routes
+│ │
+│ ├── server.js # Main server file
+│
+├── .gitignore
+├── package.json
+├── README.md
 
